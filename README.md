@@ -6,7 +6,7 @@ This repo contains the following files:
 
 In this file, we list the detailed information about each app, including the following columns:
 
-   id, ranking, app_name, appid, category, app_price, developer
+    id, ranking, app_name, appid, category, app_price, developer
 
 
 2. deleted reviews:
