@@ -25,3 +25,5 @@ The directory contains all the undeleted reviews (that had not been captured as 
 The detailed information of each review includes:
 
     appid, id, rating, author, comment_title, comment_content, delStatus, user_review_id, comment_date
+    
+We release the dataset (including both deleted and undeleted reviews) at [Zenodo](https://zenodo.org/record/7068081#.Yx3V-hpByUk) due to the large size.
